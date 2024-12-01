@@ -90,9 +90,9 @@ DATABASES = {
      "default": {
         "ENGINE": "django.db.backends.postgresql",
         "NAME": 'fundoo',#os.environ.get('DATABASE_NAME'),
-        "USER": "postgres",#os.environ.get('DATABASE_USER'),
-        "PASSWORD": "Antima-123",#os.environ.get('DATABASE_PASSWORD'),
-        "HOST" : "13.233.145.42",
+        "USER": "bingi143",#os.environ.get('DATABASE_USER'),
+        "PASSWORD": "6305114038aA#",#os.environ.get('DATABASE_PASSWORD'),
+        "HOST" : "20.197.45.25",
         "PORT" : "5432",
     }
 }
