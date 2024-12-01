@@ -89,7 +89,7 @@ WSGI_APPLICATION = "fundoonote.wsgi.application"
 DATABASES = {
      "default": {
         "ENGINE": "django.db.backends.postgresql",
-        "NAME": 'fundoo',#os.environ.get('DATABASE_NAME'),
+        "NAME": 'fundoo_db2',#os.environ.get('DATABASE_NAME'),
         "USER": "bingi143",#os.environ.get('DATABASE_USER'),
         "PASSWORD": "6305114038aA#",#os.environ.get('DATABASE_PASSWORD'),
         "HOST" : "20.197.45.25",
